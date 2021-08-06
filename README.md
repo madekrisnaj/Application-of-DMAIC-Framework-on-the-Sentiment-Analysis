@@ -68,8 +68,13 @@ We only use data in 2021 period. After going through the process of cleaning, st
 *    After resampling, we use 9,500 data for negative and positive label.
 *    Classification Score:
 ![image](https://user-images.githubusercontent.com/83490369/128548359-d9f7a74d-9245-4a94-b8db-d46897a7f454.png)
-*    Testing Sentiment
-![image](https://user-images.githubusercontent.com/83490369/128549805-0f6b3109-87a4-4670-ba85-ff893e354bfb.png)
+
+## DMAIC
+![image](https://user-images.githubusercontent.com/83490369/128550043-d532b1dd-4e0c-412e-a0fa-804c6833885c.png)
+
+
+## Business Recomendation
+Sentiment that has been obtained will be used as input in the DMAIC analysis. DMAIC is expected to be able to provide appropriate recommendations according to existing conditions. You can see the business recomendation for this study in PDF file in this repository.
 
 
 
