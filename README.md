@@ -30,8 +30,7 @@ Identify sources of variation
 
 ## What we need to prepare?
 1.   **Data**
-      
-    The data used is the *** application review data obtained from scraping data on the google play store
+     The data used is the *** application review data obtained from scraping data on the google play store
 
 2.   **Environtmet**
       *   Python Version : 3.7.6
