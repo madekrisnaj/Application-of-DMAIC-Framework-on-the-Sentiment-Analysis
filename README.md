@@ -20,8 +20,8 @@ Each step in the cyclical DMAIC Process is required to ensure the best possible 
 * **Analyze** the data collected and process map to determine root causes of defects and opportunities for improvement.
 
 * **Identify** gaps between current performance and goal performance
-Prioritize opportunities to improve
-Identify sources of variation
+prioritize opportunities to improve
+identify sources of variation
 
 * **Improve** the target process by designing creative solutions to fix and prevent problems.
 
