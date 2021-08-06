@@ -31,4 +31,4 @@ Each step in the cyclical DMAIC Process is required to ensure the best possible 
 
 2.   **Environtmet**
       *   Python Version : 3.7.6
-      *   Library : Pandas, Numpy, Matplotlib, Seaborn, Scikitlearn, Google-Play-Scrapper, Sastrawi, Re, String
+      *   Library : Pandas, Numpy, Matplotlib, Seaborn, Scikitlearn, Google-Play-Scraper, Sastrawi, Re, String
