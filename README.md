@@ -60,12 +60,19 @@ We only use data in 2021 period. After going through the process of cleaning, st
 
 ## Exploratory Data Analysis
 ![1111111](https://user-images.githubusercontent.com/83490369/128549277-95ee010d-b9c8-4591-8531-0f1448a86f44.PNG)
+![Capture](https://user-images.githubusercontent.com/83490369/128549601-be4bb81a-1a8b-4534-a954-138638f4697d.PNG)
 
 
 ## Model
 *    The classification model used is the SVM model and handling imbalance data by resampling.
 *    After resampling, we use 9,500 data for negative and positive label.
+*    Classification Score:
 ![image](https://user-images.githubusercontent.com/83490369/128548359-d9f7a74d-9245-4a94-b8db-d46897a7f454.png)
+*    Testing Sentiment
+![image](https://user-images.githubusercontent.com/83490369/128549805-0f6b3109-87a4-4670-ba85-ff893e354bfb.png)
+
+
+
 
 
 
