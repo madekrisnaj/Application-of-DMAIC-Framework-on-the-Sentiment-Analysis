@@ -73,15 +73,11 @@ We only use data in 2021 period. After going through the process of cleaning, st
 P-Control Table
 ![image](https://user-images.githubusercontent.com/83490369/128550043-d532b1dd-4e0c-412e-a0fa-804c6833885c.png)
 
-P-Control Chart
-![image](https://user-images.githubusercontent.com/83490369/128550250-9b12b301-b85e-46a1-b558-e73c83d874f8.png)
-
-
 ## Business Recomendation
 Sentiment that has been obtained will be used as input in the DMAIC analysis. DMAIC is expected to be able to provide appropriate recommendations according to existing conditions. You can see the business recomendation for this study in PDF file in this repository.
 
 ## License
-The underlying code of this project is licensed under the MIT license.
+The underlying code of this project is licensed under the MIT license https://github.com/madekrisnaj/Application-of-DMAIC-Framework-on-the-Sentiment-Analysis/blob/main/LICENSE.
 
 
 
